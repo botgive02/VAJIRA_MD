@@ -1,5 +1,5 @@
 {
-  "name": "VAJIRA-MD",
+  "name": "MASOOM-MD",
   "description": "VAJIRA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
   "logo": "https://pomf2.lain.la/f/aqi35mmg.jpg",
   "keywords": ["vajiramd", "bot", "whatsapp bot", "multi device", "vajira-md"],
@@ -9,7 +9,7 @@
     "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD=aJ1XFDYA#ZHfRIcfMrLH3x6GZwIRJhvpL9GK9AKV2vH5AZhXkG94"
         }
     },
          "buildpacks": [
